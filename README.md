@@ -16,7 +16,7 @@ The Employee Management System is a React web application designed for efficient
 
 ## Deployment
 
-The application is deployed using GitHub Pages and can be accessed [here](#). 
+The application is deployed using GitHub Pages and can be accessed [here](https://srikanth051.github.io/task-1/). 
 
 ## Usage
 
